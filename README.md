@@ -28,6 +28,6 @@ Gunbbang/jar_및_설명서/gunbbang 폴더 전체를 다운받고 jar 파일 실
 
 # 실행 화면
 ![image](https://github.com/user-attachments/assets/80aae616-64d0-4fbb-8ace-8acf071d6ae7)
-![image](https://github.com/user-attachments/assets/77aea720-ae33-4c9a-b502-141aedf084db)
 ![image](https://github.com/user-attachments/assets/c2c6de56-a7bf-43e8-b052-6f952d381f20)
+![image](https://github.com/user-attachments/assets/77aea720-ae33-4c9a-b502-141aedf084db)
 
